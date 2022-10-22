@@ -19,7 +19,7 @@
       "components/*": ["./components/*"],
       "hooks/*": ["./hooks/*"],
       "store/*": ["./store/*"],
-      "utils/*": ["./utils"],
+      "utils/*": ["./utils/*"],
       "pages/*": ["./pages/*"],
       "public/*": ["./public/*"]
     }
